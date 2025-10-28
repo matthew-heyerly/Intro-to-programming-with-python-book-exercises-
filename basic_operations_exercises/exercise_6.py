@@ -1,0 +1,1 @@
+"the following expression evaluates whether these 2 expressions are identical and will return true or false as a result, so 'foo' is not identical to 'Foo' with the uppercase, returning a false result"
