@@ -1,0 +1,1 @@
+"the following code would print the string '510' since the print function implicitly coerces to strings, and within these parameters it does string concatenation to join the numbers into 510"
