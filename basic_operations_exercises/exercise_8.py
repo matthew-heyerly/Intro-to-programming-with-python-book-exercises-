@@ -1,0 +1,1 @@
+"the following expression evaluates to a boolean value, in this case 'true' because it's evaluating the characters in quotations here as strings, and since python evaluates strings by character from left to right, it determines that 9 is greater than 1"
