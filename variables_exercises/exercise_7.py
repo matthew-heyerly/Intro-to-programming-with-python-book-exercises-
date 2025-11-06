@@ -1,0 +1,1 @@
+print("this program greets victor 3 times, then nina 3 times. the variable is formatted as a constant even though it is not one. python does not technically recognize this, it is up to the programmer to retain consistency in their code formatting")
